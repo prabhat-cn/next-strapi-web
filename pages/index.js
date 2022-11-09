@@ -4,9 +4,5 @@ import styles from '../styles/Home.module.css';
 import Intro from './info';
 
 export default function Home() {
-  return (
-    <>
-      <Intro />
-    </>
-  );
+  return <>Hi</>;
 }
