@@ -18,7 +18,7 @@ https://docs.strapi.io/developer-docs/latest/plugins/upload.html#examples
 // Next structure
   /// https://www.xenonstack.com/insights/reactjs-project-structure
 
-
+https://blog.dennisokeeffe.com/blog/2021-12-06-nextjs-enterprise-project-structure
 
 
 
