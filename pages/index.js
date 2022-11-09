@@ -1,3 +1,9 @@
+import Intro from './info';
+
 export default function Home() {
-  return <>Hi</>;
+  return (
+    <>
+      <Intro />
+    </>
+  );
 }
