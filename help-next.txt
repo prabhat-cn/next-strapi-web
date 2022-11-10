@@ -20,6 +20,9 @@ https://docs.strapi.io/developer-docs/latest/plugins/upload.html#examples
 
 https://blog.dennisokeeffe.com/blog/2021-12-06-nextjs-enterprise-project-structure
 
+// geolocation wise blocker website
+https://youtu.be/_TQ7ts1WJ7I
 
+location:    https://latitude.to/map
 
 
