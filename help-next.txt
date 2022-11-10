@@ -25,4 +25,8 @@ https://youtu.be/_TQ7ts1WJ7I
 
 location:    https://latitude.to/map
 
+https://github.com/vercel/next.js/discussions/39619
+
+https://dev.to/perkinsjr/using-next-middleware-to-access-and-use-geolocation-in-a-non-dynamic-route-25n
+
 
